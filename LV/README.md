@@ -3,4 +3,4 @@
  
  . Project - L.V.
  
- . Initial project name of planned hw.
+ . Initial project name of hw.
